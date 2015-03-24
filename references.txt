@@ -1,0 +1,4 @@
+https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery#example
+http://cssminifier.com/
+http://www.willpeavy.com/minifier/
+http://javascript-minifier.com/
